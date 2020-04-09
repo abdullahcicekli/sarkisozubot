@@ -13,7 +13,7 @@ Bu kod bot yapım aşamasının 1. kısmıdır. Basit olarak bir siteden veri ç
 3-  ```python3 sarkisozu.py``` yazarak botu başlatın.
 
 
-# Bana Ulaşın 
+# İletişim
 
 Mail - abdulahcicekli@gmail.com / 170509051@firat.edu.tr
 
